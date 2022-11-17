@@ -2,3 +2,21 @@
 .info-aside {
     margin-bottom: 30px;
 }
+
+.info-part-1 {
+    height: 800px;
+    position: relative;
+}
+
+.info-part-1-txt1 {
+    position: absolute;
+    top: 10px; left: 77px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+
+    margin-top: 40px;
+}
