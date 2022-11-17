@@ -33,7 +33,7 @@ function App() {
 const HomeTemplate = () => {
     return (
         //<link rel="icon" type="image/x-icon" href="https://www.adobe.com/express/feature/image/media_15960174677e9abd368c05a0e53f9cc5526099a27.png?width=2000&format=webply&optimize=medium"/>
-        <div className="App">
+        <div>
             <HeaderHome/>
             <Outlet/>
             <Footer/>
@@ -43,7 +43,7 @@ const HomeTemplate = () => {
 
 const InfoTemplate = () => {
     return (
-        <div className="App">
+        <div>
             <HeaderInfo/>
             <Outlet/>
         </div>
