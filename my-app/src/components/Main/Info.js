@@ -1,7 +1,7 @@
-import {TextBlock} from "./auxiliary/TextBlock";
-import {main_texts} from "./texts/main-texts";
-import {info_texts} from "./texts/info-texts";
-import { InfoText } from "./texts/info-texts2";
+import {TextBlock} from "../Auxiliary/TextBlock";
+import {main_texts} from "./main-texts";
+import {info_texts} from "./info-texts";
+import { InfoText } from "./info-texts";
 
 export function Info() {
 
